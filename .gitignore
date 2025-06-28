@@ -1,0 +1,11 @@
+# Environments
+.env
+.streamlit-venv
+env/
+streamlit-venv/
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
